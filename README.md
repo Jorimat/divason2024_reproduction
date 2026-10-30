@@ -2,5 +2,5 @@ Goal: Reproduce (part of) Table 2 of "Analysis of Varroa Mite Colony Infestation
 
 Steps
 1. Create environment with environment.yaml.
-2. Run download_models.
+2. Run download_models_data.sh.
 3. Run compare_models_val.ipynb.
